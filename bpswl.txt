@@ -1,14 +1,7 @@
-vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?security=tls&sni=gos1.portal-guard.com&allowInsecure=1&type=ws&path=/ajnexnws&host=gos1.portal-guard.com&packetEncoding=xudp&encryption=none#🇲🇾Malaysia2%20GU
-vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?security=tls&sni=akashi.vk-portal.net&allowInsecure=1&type=ws&path=/ajnexnws&host=akashi.vk-portal.net&packetEncoding=xudp&encryption=none#🇲🇾Malaysia1%20VK
-vless://49a7ef14-1b13-4aeb-baa3-775ddee2e334@195.42.233.13:443?security=tls&sni=ozon.ru&allowInsecure=1&type=ws&path=/yohyowws&host=xapi.ozon.ru&packetEncoding=xudp&encryption=none#🇫🇷France1%20Ozon
 vmess://91382092-2330-455b-8a1c-9c129cfe661a@216.173.69.250:8443?encryption=auto&security=none&fp=&type=ws&path=/&host=m.vk.com#%F0%9F%87%B1%F0%9F%87%BBLatvia%20mobile%20vk
 vless://8478d3a9-e1d8-4bda-952b-0f0701928a2b@217.16.24.170:443?security=reality&encryption=none&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=5540e44a53c3d01c#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20vkvideo
 trojan://vpn@147.45.134.186:2025?security=none&type=ws&path=/&host=rutube.ru#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20rutube
 vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?security=none&type=ws&path=/&host=yandex.net&packetEncoding=xudp&encryption=none#%F0%9F%87%B1%F0%9F%87%BBLV%20yandex
-vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?security=tls&sni=strm-rad-23.strm.yandex.net&allowInsecure=1&type=ws&path=/ajnexnws&host=strm-rad-23.strm.yandex.net&packetEncoding=xudp&encryption=none#🇲🇾Malaysia1%20ya2
-vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?security=tls&sni=csp.yandex.net&allowInsecure=1&type=ws&path=/ajnexnws&host=csp.yandex.net&packetEncoding=xudp&encryption=none#🇲🇾Malaysia2%20ya3
-vless://49a7ef14-1b13-4aeb-baa3-775ddee2e334@195.42.233.13:443?security=tls&sni=static.beeline.ru&allowInsecure=1&type=ws&path=/yohyowws&host=static.beeline.ru&packetEncoding=xudp&encryption=none#🇫🇷France1%20bee
-vless://49a7ef14-1b13-4aeb-baa3-775ddee2e334@195.42.233.13:443?security=tls&sni=queuev4.vk.com&allowInsecure=1&type=ws&path=/yohyowws&host=queuev4.vk.com&packetEncoding=xudp&encryption=none#🇫🇷France1%20vk
 vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?security=none&type=ws&path=/&host=sun6-21.userapi.com&packetEncoding=xudp&encryption=none#%F0%9F%87%B1%F0%9F%87%BBLV%20vkvideo
 vmess://91382092-2330-455b-8a1c-9c129cfe661a@216.173.69.250:8443?encryption=auto&security=none&fp=&type=ws&path=/&host=esa-res.online.sberbank.ru#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20sber
 trojan://vpn@147.45.134.186:2025?security=none&type=ws&path=/&host=mddc.tinkoff.ru#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20tink
@@ -18,5 +11,9 @@ vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?security=none&ty
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?security=none&type=ws&path=/panika&host=m.vk.com&packetEncoding=xudp&encryption=none#[%F0%9F%87%A9%F0%9F%87%AA]%20germany%20mobile%20vk
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?security=none&type=ws&path=/panika&host=www.kinopoisk.ru&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AAGermany%20kinopoisk
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?security=none&type=ws&path=/panika&host=stg.api.max.com&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AAGermany%20max
-vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?security=none&type=ws&path=/vless/&host=cs10146.userapi.com&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7France%20vkvideo
-vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?security=none&type=ws&path=/vless/&host=web4330.vk.com&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20vkweb
+vless://a2088892-07c5-4c54-8a10-4a4b6ebefab6@waifu.kurumi.biz.id:80?security=none&type=ws&path=/vless&host=cs10146.userapi.com&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapure%20vkvideo
+trojan://vpn@147.45.134.186:2025?security=none&type=ws&path=/&host=m.vk.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20m.vk.com
+vless://a2088892-07c5-4c54-8a10-4a4b6ebefab6@waifu.kurumi.biz.id:80?security=none&type=ws&path=/vless&host=gos1.portal-guard.com&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapure%20%D0%B3%D0%BE%D1%81%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8
+vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?security=none&type=ws&path=/&host=stg.api.max.com&packetEncoding=xudp&encryption=none#%F0%9F%87%B1%F0%9F%87%BBLatvia%20max
+vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?security=none&type=ws&path=/&host=ozon.ru&packetEncoding=xudp&encryption=none#%F0%9F%87%B1%F0%9F%87%BBLatvia%20ozon.ru
+vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?security=none&type=ws&path=/&host=csp.yandex.net&packetEncoding=xudp&encryption=none#%F0%9F%87%B1%F0%9F%87%BBLatvia%20csp.yandex.net
